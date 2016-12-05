@@ -1,0 +1,19 @@
+{
+  "name": "botframework",
+  "version": "1.0.0",
+  "description": "microsoft bot framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ziv brachia",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "events": "^1.1.1",
+    "http": "0.0.0",
+    "restify": "^4.3.0",
+    "socket.io": "^1.7.1",
+    "socket.io-client": "^1.7.1"
+  }
+}
